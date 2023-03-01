@@ -1,0 +1,6 @@
+framework module TKDemoLibrary {
+  umbrella header "TKDemoLibrary-umbrella.h"
+
+  export *
+  module * { export * }
+}

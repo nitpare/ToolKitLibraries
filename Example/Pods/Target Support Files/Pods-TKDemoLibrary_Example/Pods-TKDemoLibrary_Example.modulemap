@@ -1,0 +1,6 @@
+framework module Pods_TKDemoLibrary_Example {
+  umbrella header "Pods-TKDemoLibrary_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

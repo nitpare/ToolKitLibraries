@@ -1,0 +1,22 @@
+{
+  "name": "TKDemoLibrary",
+  "version": "0.1.0",
+  "summary": "A short description of TKDemoLibrary.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/nitpare/TKDemoLibrary",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "nitpare": "125563137+nitpare@users.noreply.github.com"
+  },
+  "source": {
+    "git": "https://github.com/nitpare/TKDemoLibrary.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "TKDemoLibrary/Classes/**/*"
+}

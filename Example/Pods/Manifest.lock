@@ -1,0 +1,16 @@
+PODS:
+  - TKDemoLibrary (0.1.0)
+
+DEPENDENCIES:
+  - TKDemoLibrary (from `../`)
+
+EXTERNAL SOURCES:
+  TKDemoLibrary:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  TKDemoLibrary: 9551e22dd340bf6c88d89608d0653b6ceac31163
+
+PODFILE CHECKSUM: 4781ed9a39d92d16ecef2452f13640c6b48f5874
+
+COCOAPODS: 1.11.3

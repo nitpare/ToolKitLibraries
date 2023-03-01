@@ -7,12 +7,16 @@
 //
 
 import UIKit
+import TKDemoLibrary
 
 class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
+        
+        let validatin = TKValidation()
+        validatin.checkValidation(str: "abcd")
     }
 
     override func didReceiveMemoryWarning() {
