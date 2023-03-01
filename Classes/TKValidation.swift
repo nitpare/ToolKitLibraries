@@ -10,6 +10,6 @@ import Foundation
 public class TKValidation {
     public init() {}
     public func checkValidation(str: String) {
-        print("\(str) is valid")
+        print("\(str) is a valid string as per the framework")
     }
 }
